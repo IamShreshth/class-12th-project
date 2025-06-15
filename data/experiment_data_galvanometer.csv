@@ -1,0 +1,4 @@
+Galvanometer Resistance (ohm),Max current through Galvanometer (ampere),Max current through Ammeter (ampere),Resistance for Ammeter (ohm),Max voltage across Voltmeter (volt),Resistance for voltmeter (ohm)
+50.0,0.002,3.0,0.033356,10.0,4950.0
+60.0,0.0015,5.0,0.018005,15.0,9940.0
+100.0,0.001,1.0,0.1001,5.0,4900.0

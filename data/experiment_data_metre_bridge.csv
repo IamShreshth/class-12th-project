@@ -1,0 +1,4 @@
+Known Resistance (ohm),Length on side of known resistance (cm),Length on side of unknown resistance (cm),Error in resistance (ohm),Least count of measuring instrument (cm),Value of unknown Resistance (ohm),Error in resistance (ohm)
+10.0,48.5,51.5,0.05,0.1,9.4175,0.0847
+15.0,52.0,48.0,0.05,0.1,16.25,0.1381
+20.0,45.0,55.0,0.05,0.1,16.3636,0.1077

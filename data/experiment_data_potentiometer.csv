@@ -1,0 +1,4 @@
+EMF (V),Wire Length (m),Error in Length (m),Balance Length (m),Error in Balance Length (m),Voltage (V),Error in Voltage (V)
+4.0,2.0,0.01,1.2,0.01,2.4,0.032
+4.0,2.0,0.01,0.85,0.01,1.7,0.0285
+2.0,4.0,0.01,2.15,0.01,1.075,0.0077

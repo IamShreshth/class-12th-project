@@ -1,0 +1,4 @@
+Mass (kg),Gravitational acceleration (m/s²),Length of wire (m),Radius of wire (m),Change in length of wire (m),Young's Modulus (N/m²)
+2.0,9.80665,2.5,0.00025,0.0012,208110000000.0
+3.0,9.80665,2.5,0.00025,0.0018,208110000000.0
+4.0,9.80665,2.5,0.00025,0.0024,208110000000.0

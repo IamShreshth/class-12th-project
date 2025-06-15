@@ -1,0 +1,4 @@
+Frequency of tuning fork (Hz),Length (first resonance) (cm),Length (second resonance) (cm),Speed of sound (cm/s),Speed of sound (m/s),End correction (cm)
+512.0,16.2,49.6,34201.6,342.02,0.5
+480.0,17.3,53.0,34272.0,342.72,0.55
+256.0,32.8,99.8,34304.0,343.04,0.7

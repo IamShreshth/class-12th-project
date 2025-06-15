@@ -1,0 +1,4 @@
+Mass (kg),Max force taken (N),Gravitational acceleration (m/s²),Error in mass measurement (kg),Error in force measurement (N),Coefficient of friction,Error in coefficient of friction
+0.5,1.47,9.80665,0.005,0.02,0.3,0.0071
+0.75,2.21,9.80665,0.005,0.02,0.3005,0.0047
+1.0,2.94,9.80665,0.005,0.03,0.2998,0.0046
